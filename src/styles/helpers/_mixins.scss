@@ -1,0 +1,11 @@
+@mixin tab {
+	@media (max-width: 1279px) {
+		@content;
+	}
+}
+
+@mixin mob {
+	@media (max-width: 767px) {
+		@content;
+	}
+}
