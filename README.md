@@ -1,3 +1,16 @@
+
+https://myosminozhka-ru.github.io/tss-email-templates/dist/index.html
+https://myosminozhka-ru.github.io/tss-email-templates/dist/email2.html
+https://myosminozhka-ru.github.io/tss-email-templates/dist/email3.html
+https://myosminozhka-ru.github.io/tss-email-templates/dist/email4.html
+https://myosminozhka-ru.github.io/tss-email-templates/dist/email5.html
+https://myosminozhka-ru.github.io/tss-email-templates/dist/email6.html
+https://myosminozhka-ru.github.io/tss-email-templates/dist/email7.html
+https://myosminozhka-ru.github.io/tss-email-templates/dist/email8.html
+https://myosminozhka-ru.github.io/tss-email-templates/dist/email9.html
+https://myosminozhka-ru.github.io/tss-email-templates/dist/email10.html
+
+
 # gulp-scss-starter
 
 ![License](https://img.shields.io/github/license/andreyalexeich/gulp-scss-starter)
